@@ -1,7 +1,6 @@
-Source: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/#reset-windows-11-password
 
 
-Reset Windows 11 password ^
+Reset Windows 11 password 
 
 To start with the procedure, you need to boot up with something that can access the NTFS file system. In my case, I always use Windows installation media or Windows PE media.
 
@@ -71,3 +70,7 @@ To get the system to a clean state, you need to restore the original Utilman.exe
 Taskbar is missing in Safe mode
 
 Done! All that's left is to reboot the computer to Normal mode.
+
+
+Source: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/#reset-windows-11-password
+
