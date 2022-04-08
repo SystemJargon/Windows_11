@@ -4,6 +4,8 @@ Source: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows
 Reset Windows 11 password ^
 
 To start with the procedure, you need to boot up with something that can access the NTFS file system. In my case, I always use Windows installation media or Windows PE media.
+
+
 Windows 11 setup screen
 
 Windows 11 setup screen
