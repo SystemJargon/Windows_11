@@ -1,6 +1,4 @@
-
-
-Reset Windows 11 password 
+# Reset Windows 11 password 
 
 To start with the procedure, you need to boot up with something that can access the NTFS file system. In my case, I always use Windows installation media or Windows PE media.
 
@@ -71,6 +69,9 @@ Taskbar is missing in Safe mode
 
 Done! All that's left is to reboot the computer to Normal mode.
 
+# Reset Windows Server 2022 password 
+
+The same procedure can be applied to Windows Server 2022 (with GUI only) with just one change. The Windows Server logon screen does not allow you to reboot the system, so it's not possible to get into Safe mode with the Shift+Restart combination. In this case, simply reset the system while booting, which will get you into the troubleshooting splash screen. Then follow the steps to get into Safe mode, as described earlier in the post. Once booted to Safe mode, click the Accessibility icon, and move forward with the hack.
 
 Source: https://4sysops.com/archives/reset-a-windows-11-password-and-the-windows-server-2022-administrator-password/#reset-windows-11-password
 
