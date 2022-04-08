@@ -50,3 +50,4 @@ $_Paste_in_Powershell = { $Code = @'
 } ; start -verb runas powershell -args "-nop -c & {`n`n$($_Paste_in_Powershell-replace'"','\"')}"
 $_Press_Enter
 #::
+
