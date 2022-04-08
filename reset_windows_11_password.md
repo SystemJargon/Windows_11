@@ -1,4 +1,4 @@
-# Reset Windows 11 password 
+# Reset Windows 11 password (also Windows Server 2022)
 
 To start with the procedure, you need to boot up with something that can access the NTFS file system. In my case, I always use Windows installation media or Windows PE media.
 
