@@ -1,5 +1,7 @@
 Windows 11: how to bypass TPM checks during dynamic updates
 
+Full article  
+https://github.com/AveYo/MediaCreationTool.bat#readme
  
 Here is what you need to do:
 
