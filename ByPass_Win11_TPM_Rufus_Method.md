@@ -11,7 +11,7 @@ For most people, this method is ideal, but there are a couple of disadvantages. 
 3. Select the USB device that you want to install Windows 11 to.
 
 Select USB drive
-(https://cdn.mos.cms.futurecdn.net/8fUAXyvNoSRFFAMK5ivCbH-970-80.png)
+[https://cdn.mos.cms.futurecdn.net/8fUAXyvNoSRFFAMK5ivCbH-970-80.png]
 
 4. Ensure that Boot Selection shows “Disk or ISO image” and click DOWNLOAD.
 
