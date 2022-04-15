@@ -1,4 +1,4 @@
-How to Bypass Windows 11's TPM Requirement Using Rufus
+# How to Bypass Windows 11's TPM Requirement Using Rufus
 
 With Rufus, a free utility, you can create a Windows 11 install disk on a USB Flash drive with settings that disable the TPM, RAM and CPU requirements. You can either boot off of this USB Flash drive to do a clean Windows 11 install or run the setup file off of the drive from within Windows 10 to do an in-place upgrade.
 
