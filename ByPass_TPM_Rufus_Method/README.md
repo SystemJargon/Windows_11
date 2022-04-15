@@ -56,3 +56,6 @@ The write process can take some time, depending on the USB drive being used, but
 Run setup.exe to upgrade or boot to do a clean install
 
 ![image](https://user-images.githubusercontent.com/24641464/163526617-950d4eb0-cc64-4b61-bc29-a7d84d9d36c8.png)
+
+
+Source: https://www.tomshardware.com/how-to/bypass-windows-11-tpm-requirement
